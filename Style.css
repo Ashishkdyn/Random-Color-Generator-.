@@ -39,3 +39,6 @@ button {
   cursor: pointer;
   margin-top: 4px 0px;
 }
+button:hover{
+  cursor: pointer;
+}
