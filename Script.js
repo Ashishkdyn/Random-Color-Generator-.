@@ -11,4 +11,3 @@ document.getElementById("btn").addEventListener("click", getColor);
 
 //initial call
 getColor();
-console.log("hii this is ashish kadyan");
