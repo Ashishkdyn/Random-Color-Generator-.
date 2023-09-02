@@ -12,3 +12,5 @@ document.getElementById("btn").addEventListener("click", getColor);
 //initial call
 getColor();
 console.log("hii this is test for how pull req. works.");
+
+console.log("just only for other tests.");
